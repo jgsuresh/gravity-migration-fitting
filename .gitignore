@@ -1,0 +1,9 @@
+*.exe
+*.dll
+data/raw/*.csv
+data/intermediate/*.csv
+data/*.csv
+
+# Pycharm files
+*.iml
+*.xml
